@@ -1,0 +1,22 @@
+{
+    "bootFailure": "明洋代维启动失败，请退出重试",
+    "inspectEnd": "巡检结束，正在提交巡检点",
+    "prepareLine": "准备巡检路线",
+    "point": "巡检点",
+    "positioningFailure": "×定位失败，正在重试",
+    "positioningSuccess": "√定位成功，巡检点结束",
+    "file": "巡检文件",
+    "exitAll": "全部巡检完成！程序即将退出！",
+    "lineNumber": "请选择巡检路段编号",
+    "inputLineNumberError": "选择巡检路段错误请重新输入",
+    "exitSelf": "手动巡检完成！程序即将退出！",
+    "select": "请选择巡检任务类型",
+    "all": "全部自动巡检",
+    "self": "手动选择巡检路段",
+    "inputNumber": "请输入数字编号",
+    "inputNumberError": "巡检任务类型误请重新输入",
+    "loading": "正在加载巡检文件，请稍后……",
+    "loadFailure": "加载巡检文件失败！",
+    "loadingText": "加载",
+    "adb": "nox_adb"
+}

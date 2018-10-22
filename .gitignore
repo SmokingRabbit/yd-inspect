@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+.happypack
+npm-debug.*
+.idea/
+*.swp
+*.zip
+*.tar.bz2
+*.openssl
+submit.sh
+hz_build/
+hz_build_test/
+tmp/
+巡检文件/
+dist
